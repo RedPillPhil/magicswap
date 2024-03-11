@@ -93,7 +93,7 @@
     "vitest": "^1.1.0"
   },
   "engines": {
-    "node": ">=20"
+    "node": "18.x"
   },
   "lint-staged": {
     "app/**/{*.ts,*.tsx}": "npm run lint"
